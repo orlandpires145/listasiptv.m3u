@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Telecine Action
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/telecineaction_be057d4c_36f107fe9f3f46de355b1dbc415ca4c2507c9eb8/playlist.m3u8
+#EXTINF:-1,Fox
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fox_5a5b0f9b_3afe923626797de868a30bd218f36a1f3efc809b/playlist.m3u8
+#EXTINF:-1,Fox Premium 1
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxpremium1_1bdf1a2f_15139bccc52854d56be66908b712d28f3c3613d5/playlist.m3u8
+#EXTINF:-1,Fox HD
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fox_5a5b0f9b_3afe923626797de868a30bd218f36a1f3efc809b/playlist.m3u8
